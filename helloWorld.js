@@ -1,3 +1,5 @@
+let input = prompt('Please enter some data')
+
 const message = () => {
-    console.log('Git is Awesome!')
+    console.log(input)
 }
